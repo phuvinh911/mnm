@@ -1,2 +1,2 @@
-# ma nguon mo  
-code linh tinh 123
+# ma nguon mo  123
+code linh tinh
